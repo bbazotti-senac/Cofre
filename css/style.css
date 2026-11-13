@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+main {
+    margin: 0 auto;
+    max-width: 80%;
+}
+h1 {
+    font-size: 18px;
+    color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
